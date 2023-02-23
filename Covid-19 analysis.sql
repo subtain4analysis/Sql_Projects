@@ -5,6 +5,7 @@ Skills used: Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, C
 */
 
 
+
 --Viewing the datasets
 
 
